@@ -1,6 +1,6 @@
 # npmdoc-atomify
 
-#### api documentation for  atomify (v7.3.1)  [![npm package](https://img.shields.io/npm/v/npmdoc-atomify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-atomify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-atomify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-atomify)
+#### basic api documentation for  atomify (v7.3.1)  [![npm package](https://img.shields.io/npm/v/npmdoc-atomify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-atomify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-atomify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-atomify)
 
 #### Atomic web development - Combining the power of npm, Browserify, Rework and more to build small, fully encapsulated client side modules
 
